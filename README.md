@@ -1,6 +1,6 @@
-# Naukr.AI Retail Data & Conversational Intelligence Workbench
+# Retail Data & Conversational Intelligence Workbench
 
-A production-minded retail data quality and conversational analytics workbench built for the Naukr.AI `DQ-AI-CHAT-03` technical assessment.
+A production-minded retail data quality and conversational analytics workbench built.
 
 The application combines:
 
