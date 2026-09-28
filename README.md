@@ -768,6 +768,4 @@ Before pushing the final version:
 - [ ] No secrets are committed
 - [ ] Final Git status reviewed
 
-## 30. License / Assessment Context
 
-This repository was developed as a technical assessment project for the Naukr.AI `DQ-AI-CHAT-03` challenge. The implementation prioritizes correctness, deterministic execution, safety, auditability, and reproducibility within the assessment scope.
